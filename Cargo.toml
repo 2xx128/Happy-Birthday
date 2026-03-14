@@ -1,0 +1,8 @@
+[package]
+name = "Happy Birthday"
+version = "1.0.0"
+edition = "2024"
+
+[package.metadata.windows_subsystem] #windows = "windows"
+
+[dependencies]
